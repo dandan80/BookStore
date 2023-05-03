@@ -64,7 +64,6 @@
             </div>            
          </div>
          <div class="well well-sm">
-         This assignment was created by <em>Dandan Cao</em>
          </div> 
         
       </div>
